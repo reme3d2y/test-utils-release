@@ -1,6 +1,6 @@
 {
     "name": "@test-utils-release/data",
-    "version": "0.4.3",
+    "version": "0.5.0",
     "description": "common data",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
