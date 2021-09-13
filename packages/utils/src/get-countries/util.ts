@@ -1,4 +1,4 @@
-import { countries, CountryRaw } from '@alfalab/data';
+import { countries, CountryRaw } from '@test-utils-release/data';
 
 export type Country = {
     name: string;

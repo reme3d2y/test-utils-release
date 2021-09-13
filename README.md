@@ -1,11 +1,11 @@
 <div align="center">
-    <h1>@alfalab/utils</h1>
+    <h1>@test-utils-release/utils</h1>
     <div>Данная библиотека представляет собой набор общеиспользуемых утилит.</div>
 </div>
 
 <hr />
 
-<img src="https://github.com/alfa-laboratory/utils/workflows/Tests/badge.svg" /> ![](https://badgen.net/npm/v/@alfalab/utils)
+<img src="https://github.com/alfa-laboratory/utils/workflows/Tests/badge.svg" /> ![](https://badgen.net/npm/v/@test-utils-release/utils)
 
 ## Содержание
 
@@ -31,25 +31,25 @@
 Установка основной библиотеки:
 
 ```bash
-npm i @alfalab/toolbox
+npm i @test-utils-release/toolbox
 ```
 
 или
 
 ```bash
-yarn add @alfalab/utils
+yarn add @test-utils-release/utils
 ```
 
 Установка отдельного модуля ( например, если вам нужны только утилиты )
 
 ```bash
-npm i @alfalab/utils
+npm i @test-utils-release/utils
 ```
 
 или
 
 ```bash
-yarn add @alfalab/utils
+yarn add @test-utils-release/utils
 ```
 
 ## Документация

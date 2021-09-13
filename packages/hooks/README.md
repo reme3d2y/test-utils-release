@@ -3,13 +3,13 @@
 ## 📦 Установка
 
 ```bash
-yarn add @alfalab/hooks
+yarn add @test-utils-release/hooks
 ```
 
 ## 🔨 Использование
 
 ```jsx
-import { usePrevious } from '@alfalab/hooks';
+import { usePrevious } from '@test-utils-release/hooks';
 ```
 
 ## Состав

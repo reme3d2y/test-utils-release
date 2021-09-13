@@ -1,4 +1,4 @@
-import { currency, CurrencyCodes } from '@alfalab/data';
+import { currency, CurrencyCodes } from '@test-utils-release/data';
 
 /**
  * Возвращает знак валюты по ISO коду.

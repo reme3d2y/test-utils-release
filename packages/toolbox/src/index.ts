@@ -1,3 +1,3 @@
-export * from '@alfalab/hooks';
-export * from '@alfalab/utils';
-export * from '@alfalab/data';
+export * from '@test-utils-release/hooks';
+export * from '@test-utils-release/utils';
+export * from '@test-utils-release/data';

@@ -81,10 +81,10 @@ module.exports = {
 
     // A map from regular expressions to module names or to arrays of module names that allow to stub out resources with a single module
     moduleNameMapper: {
-        '@alfalab/data': '<rootDir>/packages/data/src',
-        '@alfalab/hooks': '<rootDir>/packages/hooks/src',
-        '@alfalab/toolbox': '<rootDir>/packages/toolbox/src',
-        '@alfalab/utils': '<rootDir>/packages/utils/src',
+        '@test-utils-release/data': '<rootDir>/packages/data/src',
+        '@test-utils-release/hooks': '<rootDir>/packages/hooks/src',
+        '@test-utils-release/toolbox': '<rootDir>/packages/toolbox/src',
+        '@test-utils-release/utils': '<rootDir>/packages/utils/src',
     },
 
     // An array of regexp pattern strings, matched against all module paths before considered 'visible' to the module loader
